@@ -1,0 +1,54 @@
+#tagline{
+    background-image: url(website/pic2.JPG);
+    width: 100%;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+/* .container-fluid{
+    background-image: url(website/pic2.JPG);
+    width: 100%;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+
+image{
+    height: 550px;
+}
+.first-column{
+
+    font-size:115px;
+    margin-top: 25px;
+    border-right:250px solid white;
+    border-left: 250px solid white;
+}
+.second-column{
+    font-size: 70px;
+    margin-top: 10px;
+    border-right:330px solid white;
+    border-left: 330px solid white;
+   
+}
+/* p{
+    color: red;
+    font-size: 20px;
+    margin: 50px;
+    padding-top: 250px; 
+} */
+
+#tagline_p {
+    color: red;
+    font-size: 20px;
+    margin: 50px;
+    padding-top: 250px; 
+}
+    
+img { 
+    width: 100%;
+    height: 200px;
+    object-fit: cover; 
+}
